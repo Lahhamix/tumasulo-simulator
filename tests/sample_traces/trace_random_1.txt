@@ -1,0 +1,4 @@
+SUB R4, R4, R4
+ADD R3, R2, R0
+ADD R1, R4, R1
+MUL R5, R2, R4
